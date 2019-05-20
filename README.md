@@ -2,3 +2,7 @@
 
 A new C standard library implementation intended for use on embedded systems.
 
+# License
+
+CNOL is licensed under the [GNU General Public License](LICENSE).
+
