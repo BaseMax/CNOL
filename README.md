@@ -2,6 +2,8 @@
 
 A new C standard library implementation intended for use on embedded systems.
 
+CNOL is a small C standard library intended for Linux kernel-based operating systems, embedded systems or mobile devices.
+
 ## Platform
 
 - [x] x86, x86 64
