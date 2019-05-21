@@ -14,13 +14,13 @@ CNOL is a small C standard library intended for Linux kernel-based operating sys
 - [ ] PowerPC
 - [ ] powerpc64
 - [ ] x32
-- [ ] OpenRISC
+- [ ] [OpenRISC](https://en.wikipedia.org/wiki/OpenRISC)
 - [ ] s390, s390x
-- [ ] SuperH
-- [ ] Alpha
-- [ ] PA-RISC
-- [ ] ia64
-- [ ] sparc
+- [ ] [SuperH](https://en.wikipedia.org/wiki/SuperH)
+- [ ] [Alpha](https://en.wikipedia.org/wiki/DEC_Alpha)
+- [ ] [PA-RISC](https://en.wikipedia.org/wiki/PA-RISC)
+- [ ] [IA-64](https://en.wikipedia.org/wiki/IA-64)
+- [ ] [SPARC](https://en.wikipedia.org/wiki/SPARC)
 
 ## Similar projects
 
