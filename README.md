@@ -6,13 +6,13 @@ CNOL is a small C standard library intended for Linux kernel-based operating sys
 
 ## Platform
 
-- [x] x86, x86 64
-- [x] i386
-- [ ] ARM
+- [x] [x86, x86 64](https://en.wikipedia.org/wiki/X86-64)
+- [x] [x32, i386](https://en.wikipedia.org/wiki/X32_ABI)
+- [ ] [ARM](https://en.wikipedia.org/wiki/ARM_architecture)
 - [ ] [MIPS](https://en.wikipedia.org/wiki/MIPS_architecture)
 - [ ] [Microblaze](https://en.wikipedia.org/wiki/MicroBlaze)
-- [ ] PowerPC
-- [ ] powerpc64
+- [ ] [PowerPC](https://en.wikipedia.org/wiki/PowerPC)
+- [ ] [PowerPC64, PPC64](https://en.wikipedia.org/wiki/Ppc64)
 - [ ] x32
 - [ ] [OpenRISC](https://en.wikipedia.org/wiki/OpenRISC)
 - [ ] s390, s390x
