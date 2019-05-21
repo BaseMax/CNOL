@@ -22,7 +22,7 @@ CNOL is a small C standard library intended for Linux kernel-based operating sys
 - [ ] [IA-64](https://en.wikipedia.org/wiki/IA-64)
 - [ ] [SPARC](https://en.wikipedia.org/wiki/SPARC)
 
-## Similar projects
+## Similar Projects
 
 - glibc
 - musl
